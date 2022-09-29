@@ -10,10 +10,7 @@ Hello welcome to my GitHub profile. I'm a small coder from Australia :australia:
  
  
 
-| Language  | Knownledge |
-| ------------- | ------------- |
-|  ![alt text](https://i.ibb.co/cDmDqgd/A441-F168-03-C2-43-DF-A273-AFDBF54-B91-E2.png) LUA  | Simple LUA coding knowledge  |
-| ![alt text](https://camo.githubusercontent.com/0b391f6178242f9fcc8e415bfa8559f32936500a50f5ed74ed2f72505e69ee7c/68747470733a2f2f692e696d6775722e636f6d2f33474d467342492e706e67) HTML  | The bare minimum  |
+
 
 <!--
 **Nowu/Nowu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
