@@ -6,8 +6,6 @@ Hello welcome to my GitHub profile. I'm a small coder from Australia :australia:
  
  ![alt text](https://i.ibb.co/FDyBWMk/EE5378-FB-EA48-4-F9-C-8-D3-C-93-CD7-B2-E2-BA3.png) **TELEGRAM ―** [Nowuzig](https://t.me/Nowuzig)
  
- ![alt text](https://i.ibb.co/ZJy3JNX/4-D17-C382-E27-C-4210-A700-CABFE55873-B9.png) **INSTAGRAM ―** [Nowu.z](https://www.instagram.com/nowu.z/)
- 
  
 
 
