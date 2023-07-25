@@ -2,7 +2,7 @@
 	<h2 align="center">Welcome to My Profile!</h2>
 
  <p align="center">
-	<h2 align="center">Currently working on
+	<h2 align="center">I'm Currently working on
 
  </h2>
 
