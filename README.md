@@ -4,7 +4,7 @@
 	</p>
 </p>
 
-<p align="center">I'm a 16-year-old <a href="https://en.wikipedia.org/wiki/Information_and_communications_technology">ICT</a> student from Australia. I'm a small coder from Australia :australia: currently in High School. I'm interested in Video game creation, NFT making and Website creation.
+<p align="center">I'm a 16-year-old <a href="https://en.wikipedia.org/wiki/Information_and_communications_technology">ICT</a> I'm interested in Video game creation, NFT making and Website creation.
 </p>
 
 <p align="center">
