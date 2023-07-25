@@ -20,5 +20,5 @@
 		<li>Discord <strong>afganz</strong></li>
 		<li>Telegram <a href="https://t.me/Nowuzig">@nowuzig</a></li>
 		
-	</ul>
+	
 </p>
