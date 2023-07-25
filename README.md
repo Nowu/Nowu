@@ -14,7 +14,7 @@
 <p>
 	<h3>Socials</h3>
 	<ul>
-		<li>Twitter <a href="https://twitter.com/afganzig">@zans3c</a></li>
+		<li>Twitter <a href="https://twitter.com/afganzig">@afganzig</a></li>
 		<li>Discord <strong>afganz</strong>
 		<li>Telegram <a href="https://t.me/Nowuzig">@nowuzig</a></li>
 	</ul>
