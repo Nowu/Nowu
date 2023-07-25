@@ -19,6 +19,6 @@
 		<li>Twitter <a href="https://twitter.com/afganzig">@afganzig</a></li>
 		<li>Discord <strong>afganz</strong></li>
 		<li>Telegram <a href="https://t.me/Nowuzig">@nowuzig</a></li>
-		<li>Project ZFN: <a href="https://projectzfn.xyz/">https://projectzfn.xyz/</a></li>
+		
 	</ul>
 </p>
