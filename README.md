@@ -16,6 +16,6 @@
 	<ul>
 		<li>Twitter <a href="https://twitter.com/afganzig">@zans3c</a></li>
 		<li>Discord <strong>afganz</strong>
-		<li>Email <a href="horrific@outlook.jp">coder@horrific@outlook.jp</a></li>
+		<li>Telegram <a href="https://t.me/Nowuzig">@nowuzig</a></li>
 	</ul>
 </p>
