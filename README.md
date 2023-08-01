@@ -10,7 +10,7 @@
 <p align="center"><a href="https://projectzfn.xyz/">Project ZFN</a></p>
 
 <p align="center">
-	<a href="https://github.com/nowu"><img src="https://github-readme-stats.vercel.app/api?username=nowu&theme=tokyonight&hide=prs,issues&count_private=true" title="nowu's GitHub Statistics" alt="nowu's GitHub Statistics"></a> <a href="https://github.com/nowu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowu&&theme=tokyonight&layout=compact" title="nowu's Most Used Languages" alt="nowu's Most Used Languages"></a>
+	<a href="https://github.com/nowu"><img src="https://github-readme-stats.vercel.app/api?username=nowu&theme=tokyonight&hide=prs,issues&count_private=true" title="nowu's GitHub Statistics" alt="nowu's GitHub Statistics"></a>
 </p>
 
 <p>
