@@ -17,7 +17,6 @@
 	<h3>Socials</h3>
 	<ul>
 		<li>Twitter <a href="https://twitter.com/afganzig">@afganzig</a></li>
-		<li>Discord <strong>afganz</strong></li>
 		<li>Telegram <a href="https://tme/Nowuzig">@nowuzig</a></li>
 	</ul>
 </p>
@@ -25,4 +24,9 @@
 <!-- Spotify GitHub Profile Widget -->
 <p align="center">
 	<img src="https://spotify-github-profile.vercel.app/api/view?uid=3gyoe27k7yvz28dvlk1wtsr47&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=7e387e" alt="Spotify GitHub Profile" title="Spotify GitHub Profile">
+</p>
+
+<!-- Discord Presence Widget -->
+<p align="center">
+	<a href="https://discord.com/users/836563146427596830"><img src="https://lanyard.cnrad.dev/api/836563146427596830" alt="Discord Presence" title="Discord Presence"></a>
 </p>
