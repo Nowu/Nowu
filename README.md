@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"><strong>I'm currently working on</strong></p>
-<p align="center"><a href="">Various Projects</a></p>
+<p align="center"><a href="">lostorbit.shop</a></p>
 
 <p align="center">
 	<a href="https://github.com/nowu"><img src="https://github-readme-stats.vercel.app/api?username=nowu&theme=tokyonight&hide=prs,issues&count_private=true" title="nowu's GitHub Statistics" alt="nowu's GitHub Statistics"></a>
