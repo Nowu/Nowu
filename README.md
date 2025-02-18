@@ -1,5 +1,3 @@
-# 💫 About Me:
-i like lua and c++
 
 
 ## 🌐 Socials:
